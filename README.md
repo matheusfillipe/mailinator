@@ -2,7 +2,7 @@
 
 Python wrapper for mailinator's public api. This library scrapes mailinator's websockets api and gives an abstraction layer for basic operations such as viewing the inbox, email's content and removing them.
 
-This means that this will allow you to to view and remove emails from public inboxes of (https://www.mailinator.com)[https://www.mailinator.com] without the need of a headless browser. Notice there is a limit for removing emails.
+This means that this will allow you to to view and remove emails from public inboxes of https://www.mailinator.com without the need of a headless browser. Notice there is a limit for removing emails.
 
 
 ## Usage
