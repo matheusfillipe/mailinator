@@ -18,7 +18,7 @@ requirements = requirements()
 
 setuptools.setup(
     name="mailinator-public-api",
-    version="0.1",
+    version="0.1.1",
     author="Matheus Fillipe",
     author_email="mattf@tilde.club",
     description="A simple python wrapper for the Public mailinator websockets API",
